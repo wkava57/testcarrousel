@@ -55,7 +55,7 @@ export default function Home() {
             src={ apres } alt="une pièce avant la renovation"></Image>
           </div>
           <br />
-          <h3 className='w-3/4 text-center text-center bg-blue-500 text-white m-auto
+          <h3 className='w-3/4 text-center text-center  bg-blue-400 text-white m-auto
             xl:w-1/5'>
             Avant
           </h3>                
