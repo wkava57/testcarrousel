@@ -40,7 +40,7 @@ export default function Home() {
               alt="une pièce avant la renovation"></Image>
             </div>
             <br />
-            <h3 className='w-2/4 text-center text-center bg-blue-500 text-white m-auto
+            <h3 className='w-2/4 text-center text-center bg-blue-500 text-white m-auto rounded-2xl
               xl:w-1/5'>
               Avant
             </h3>                
@@ -74,7 +74,7 @@ export default function Home() {
             
               
                 <div className="carrousel text-center font-[30px] leading-[45px] ">
-                  <div className="pretxt h-[5px] w-1/2 text-blue-500 font-bold shadow-black uppercase ">je vous présente :</div>
+                  {/* <div className="pretxt h-[5px] w-1/2 text-blue-500 font-bold shadow-black uppercase ">je vous présente :</div> */}
                   <div className="changetxt text-center h-[45px] overflow-hidden ">
                     <div className="content font-bold font- uppercase animate-carrousel">
                       <div className="element">Peinture chambre 1</div>
@@ -105,7 +105,7 @@ export default function Home() {
               src={apres} alt="une pièce avant la renovation"></Image>
             </div>
             <br />
-            <h3 className='w-2/4 text-center text-center  bg-blue-400 text-white m-auto
+            <h3 className='w-2/4 text-center text-center  bg-blue-500 text-white m-auto rounded-2xl
               xl:w-1/5'>
               Apres
             </h3>                
